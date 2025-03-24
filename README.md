@@ -1,6 +1,10 @@
 # Custom config for ml4w
 First of all you need to install the [ML4W Hyperland Starter](https://github.com/mylinuxforwork/hyprland-starter)
 
+## Screenshot
+![App Screenshot](https://github.com/Bram-4197/custom_config_for_ml4w/blob/main/screenshot/screenshot.jpg)
+
+
 ## Installation Steps
 
 1. Clone the Repository:
